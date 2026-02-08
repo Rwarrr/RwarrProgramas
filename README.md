@@ -44,10 +44,7 @@
 <div align="Center">
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| ‎ <a href="https://www.instagram.com/rwarrr/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ <a href="[https://www.instagram.com/rwarrr/](https://discord.com/users/729473858179956859)"> |
 
-</div>
+| ‎<a href="https://www.instagram.com/rwarrr/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ <a href="[https://www.instagram.com/rwarrr/](https://discord.com/users/729473858179956859)"> |
 
-------
 
